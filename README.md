@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-The datset is there inside each data folder.
+The datset is there inside the data folder.
 
 ## Running
 For a local installation, make sure you have pip installed and run: 
@@ -56,7 +56,6 @@ The EKF SLAM created a more accurate map and trajectory compared to just the IMU
 </p>
   
 
-<!-- ![Alt text](https://github.com/[amitashnanda]/[Color-Classification-and-Recycling-Bin-Detection]/blob/[results]/Figure_1a.png?raw=true)
 ![](/results/Selection_003.png)
 ![](/results/Dead_reck_03.png)
 ![](/results/Dead_Reck_10.png)
