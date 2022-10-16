@@ -1,0 +1,7 @@
+FOG (Fiber Optic Gyro) extrinsic calibration parameter from vehicle
+RPY(roll/pitch/yaw = XYZ extrinsic, degree), R(rotation matrix), T(translation matrix, meter)
+RPY: 0 0 0
+R: 1 0 0 0 1 0 0 0 1 
+T: -0.335 -0.035 0.78
+
+* The sensor measurements are stored as [timestamp, delta roll, delta pitch, delta yaw] in radians.

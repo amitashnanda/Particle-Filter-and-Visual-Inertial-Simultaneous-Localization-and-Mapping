@@ -1,0 +1,5 @@
+Lidar sensor (LMS511) extrinsic calibration parameter from vehicle
+RPY(roll/pitch/yaw = XYZ extrinsic, degree), R(rotation matrix), T(translation matrix)
+RPY: 142.759 0.0584636 89.9254
+R: 0.00130201 0.796097 0.605167 0.999999 -0.000419027 -0.00160026 -0.00102038 0.605169 -0.796097 
+T: 0.8349 -0.0126869 1.76416

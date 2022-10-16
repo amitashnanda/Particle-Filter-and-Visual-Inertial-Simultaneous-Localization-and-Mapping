@@ -1,0 +1,7 @@
+FOV: 190 (degree)
+Start angle: -5 (degree)
+End angle: 185 (degree)
+Angular resolution: 0.666 (degree)
+Max range: 80 (meter)
+
+* LiDAR rays with value 0.0 represent infinite range observations.

@@ -1,0 +1,1 @@
+Baseline of stereo cameras: 475.143600050775 (mm)
