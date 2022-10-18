@@ -64,7 +64,7 @@ with some variations. One particular thing to note is the realization of the lan
 <!-- Dead_reckoning           |  First LiDAR Scan
 :-------------------------:|:-------------------------: -->
 <!-- ![](/results/p-slam/Dead_Reckoning.png)  |  ![](/results/p-slam/First_Lidar_Scan.png) -->
-![](/results/p-slam/Final_MAP/Figure_1.png)
+![](/results/p-slam/binary map/Figure_1.png)
  
 
 
