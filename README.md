@@ -64,7 +64,7 @@ with some variations. One particular thing to note is the realization of the lan
  Dead_reckoning           |  First LiDAR Scan
 :-------------------------:|:-------------------------: -->
  ![](/results/p-slam/Dead_Reckoning.png)  |  ![](/results/p-slam/First_Lidar_Scan.png)
- ![](/results/p-slam/binary_map/Figure_1.png)  |  ![](![](/results/p-slam/binary_map/Figure_2.png)
+
  
 <!--   Occupancy Grid Map          |  Occupancy Grid Map 
 :-------------------------:|:-------------------------: -->
