@@ -1,4 +1,7 @@
 # Particle-Filter-and-Visual-Inertial-Simultaneous-Localization-and-Mapping
+ ![](/results/v-slam/Selection_003.png)
+ ![](/results/p-slam/main.gif)
+
 Autonomous navigation requires precise and robust mapping and localization solutions in real-world scenarios. Simultaneous Localization and Mapping (SLAM) is widely used in solving this problem. SLAM usage ranges from mobile robotics and self-driving cars to unmanned aerial and underwater autonomous vehicles. It uses data from the sensors to perform mapping and localization simultaneously. Particle filter is one of the most adapted estimation algorithms for SLAM apart from the Kalman Filter and Extended Kalman Filter. This project discusses an approach to solving the SLAM problem for an autonomous vehicle and attempts to understand the given implementation's shortcomings. We successfully implemented the differential-drive motion and scan-grid correlation observation models for simultaneous localization and occupancy-grid mapping. We also implemented visual-inertial simultaneous localization and mapping (SLAM) using python's extended Kalman filter (EKF). EKF is used over popular sparse SLAM algorithms like Particle Filter and Factor Graphs SLAM. This is because EKF uses prediction and update steps to track an autonomous system over time and estimate landmark positions. Our project involves three main steps:
 
 A. IMU Localization via EKF Prediction
@@ -67,4 +70,15 @@ with some variations. One particular thing to note is the realization of the lan
  ![](/results/p-slam/binary_map/Figure_1.png)  |  ![](/results/p-slam/binary_map/Figure_2.png)
  ![](/results/p-slam/binary_map/Figure_3.png)  |  ![](/results/p-slam/binary_map/Figure_4.png)
  ![](/results/p-slam/binary_map/Figure_5.png)  |  ![](/results/p-slam/binary_map/Figure_7.png)
+ ![](/results/p-slam/Final_MAP/Figure_4.png)  |  ![](/results/p-slam/Final_MAP/Figure_6.png)
+ ![](/results/p-slam/Final_MAP/Figure_7.png)  |  ![](/results/p-slam/Final_MAP/Figure_9.png)
+ ![](/results/p-slam/Final_MAP/Figure_10.png)  |  ![](/results/p-slam/Final_MAP/Figure_11.png)
+ ![](/results/p-slam/Final_MAP/Figure_12.png)  |  ![](/results/p-slam/Final_MAP/Figure_13.png)
+ ![](/results/p-slam/output_wall/Figure_4.png)  |  ![](/results/p-slam/output_wall/Figure_6.png)
+ ![](/results/p-slam/output_wall/Figure_7.png)  |  ![](/results/p-slam/output_wall/Figure_9.png)
+ ![](/results/p-slam/output_wall/Figure_10.png)  |  ![](/results/p-slam/output_wall/Figure_11.png)
+ ![](/results/p-slam/output_wall/Figure_12.png)  |  ![](/results/p-slam/output_wall/Figure_13.png)
+ ![](/results/v-slam/Dead_reck_03.png)  |  ![](/results/v-slam/Dead_reck_10.png)
+ ![](/results/v-slam/Figure_03npz.png)  |  ![](/results/v-slam/Figure_1.png)
+
  
