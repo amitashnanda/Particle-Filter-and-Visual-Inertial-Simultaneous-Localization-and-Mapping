@@ -68,15 +68,15 @@ Dead_reckoning           |  First LiDAR Scan
 
 Occupancy Grid Map         | Occupancy Grid Map
 :-------------------------:|:-------------------------:
-![](/results/p-slam/Figure_1.png)  |  ![](/results/p-slam/First_2.png)
+![](/results/p-slam/binary map/Figure_1.png)  |  ![](/results/p-slam/binary map/First_2.png)
 
 Occupancy Grid Map         | Occupancy Grid Map
 :-------------------------:|:-------------------------:
-![](/results/p-slam/Figure_3.png)  |  ![](/results/p-slam/First_4.png)
+![](/results/p-slam/binary map/Figure_3.png)  |  ![](/results/p-slam/binary map/First_4.png)
 
 Occupancy Grid Map         | Occupancy Grid Map
 :-------------------------:|:-------------------------:
-![](/results/p-slam/Figure_5.png)  |  ![](/results/p-slam/First_7.png)
+![](/results/p-slam/binary map/Figure_5.png)  |  ![](/results/p-slam/binary map/First_7.png)
 
 
 
