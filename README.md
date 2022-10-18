@@ -2,9 +2,10 @@
 <!--  ![](/results/v-slam/Selection_003.png)
  ![](/results/p-slam/main.gif) -->
  
-     Camera Frames         |  Stereo Images
+
+Camera Frames              |  Stereo Images
 :-------------------------:|:-------------------------:
-  ![](/results/v-slam/Selection_003.png)|   ![](/results/p-slam/main.gif)
+![](/results/v-slam/Selection_003.png)  |   ![](/results/p-slam/main.gif)
 
 Autonomous navigation requires precise and robust mapping and localization solutions in real-world scenarios. Simultaneous Localization and Mapping (SLAM) is widely used in solving this problem. SLAM usage ranges from mobile robotics and self-driving cars to unmanned aerial and underwater autonomous vehicles. It uses data from the sensors to perform mapping and localization simultaneously. Particle filter is one of the most adapted estimation algorithms for SLAM apart from the Kalman Filter and Extended Kalman Filter. This project discusses an approach to solving the SLAM problem for an autonomous vehicle and attempts to understand the given implementation's shortcomings. We successfully implemented the differential-drive motion and scan-grid correlation observation models for simultaneous localization and occupancy-grid mapping. We also implemented visual-inertial simultaneous localization and mapping (SLAM) using python's extended Kalman filter (EKF). EKF is used over popular sparse SLAM algorithms like Particle Filter and Factor Graphs SLAM. This is because EKF uses prediction and update steps to track an autonomous system over time and estimate landmark positions. Our project involves three main steps:
 
