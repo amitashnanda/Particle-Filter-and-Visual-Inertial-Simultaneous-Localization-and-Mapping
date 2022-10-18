@@ -65,9 +65,7 @@ Dead_reckoning           |  First LiDAR Scan
 :-------------------------:|:-------------------------:
 ![](/results/p-slam/Dead_Reckoning.png)  |  ![](/results/p-slam/First_Lidar_Scan.png)
 
-Dead_reckoning           |  First LiDAR Scan
-:-------------------------:|:-------------------------:
-![](/results/p-slam/binary map/Figure_1.png)  |  ![](/results/p-slam/binary map/Figure_2.png)
+![](/results/p-slam/binary map/Figure_1.png) 
 
 
 
