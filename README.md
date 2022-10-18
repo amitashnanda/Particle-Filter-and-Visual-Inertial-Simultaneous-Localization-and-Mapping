@@ -61,7 +61,7 @@ noise is used for each particles state using zero mean and variance of max (∆�
 with some variations. One particular thing to note is the realization of the lane on which the vehicle traverses which becomes very conspicuous from the SLAM implementation. We observed that the change in the number of particles doesn’t have much of an effect on the map or the vehicle trajectory. The trajectory aligns well through out the journey. All the plots are plotted below. The EKF SLAM created a more accurate map and trajectory compared to just the IMU localization prediction and landmark mapping via EKF update. The algorithm is performed on two datasets provided to us (03.npz and 10.npz). IMU based localization, the trajectory is determined as follows, the dead reckoning Map for both datasets are shown below. The trajectory from the IMU-based localization is assumed to be correct and EKF-update is performed for landmark mapping. The world frame is plotted using all the features. After the successful implementation of the algorithm, the map displays the car trajectory and environment landmarks. The landmark features are tried to down sampled for 10.npz datasets but with full feature the code has ran. While for 03.npz it has been shown till the 1900 iteration. The results of EKF landmark mapping, the, blue points are closely aligned with the trajectory of the car in red colour. With the variation in noise the best map is created as shown below.
 </p>
   
- Dead_reckoning           |  First LiDAR Scan
+ Dead_reckoning            |  First LiDAR Scan
 :-------------------------:|:-------------------------: -->
  ![](/results/p-slam/Dead_Reckoning.png)  |  ![](/results/p-slam/First_Lidar_Scan.png)
 
